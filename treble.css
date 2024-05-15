@@ -10,3 +10,15 @@ h1{text-align: center;}
     text-align: justify;
     width: 45em;
 }
+
+h1{
+color: black;
+text-align: center;
+background-color:powderblue;
+h1{text-align: center;}
+}
+}
+.center-justified {
+    margin: 0 auto;
+    text-align: justify;
+    width: 45em;
